@@ -4,7 +4,7 @@ Hello this is a website repo for learning about Fastly Compute:
 
 ## Option 1: Play around with Compute using this website as an origin
 
-You can use this site as the origin for an edge app just by cloning the [starter app](https://github.com/glitchdotcom/my-compute-app) and following the instructions inside it.
+You can use this site as the origin for an edge app just by cloning the [starter app](https://github.com/glitchdotcom/learn-compute) and following the instructions inside it.
 
 ## Option 2: Use the Compute app with your own version of this website
 
@@ -15,7 +15,7 @@ You can alternatively fork/clone this repo and deploy it to GitHub Pages if you 
 * Choose **Deploy from a branch**, selecting the `gh-pages` branch
 * Watch the **Actions** for your deploy status
 
-Now you can clone the [starter app](https://github.com/glitchdotcom/my-compute-app) repo.
+Now you can clone the [starter app](https://github.com/glitchdotcom/learn-compute) repo.
 
 If the site is at the root of your GitHub Pages site (the repo should be named `yourusername.github.io`) the site will be deployed at `your-user-name.github.io`:
 
