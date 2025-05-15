@@ -75,3 +75,20 @@ The style rules in this sheet apply to the origin version of the site
       background-repeat:no-repeat;
       background-size:contain;
   }
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem auto 0;
+  padding: 1.5rem;
+  width: 100%;
+  flex-wrap: wrap;
+  background-color: var(--color-header);
+  display: flex;
+  justify-content: flex-end;
+}
+a.remix {
+  background-color: var(--color-bg-alt);
+  border: 2px solid var(--color-text-main);
+  border-radius: 5px;
+  padding:0.5rem;
+}
