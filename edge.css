@@ -81,3 +81,27 @@ The style rules in this sheet apply to the edge version of the published site
       background-repeat:no-repeat;
       background-size:contain;
   }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem auto 0;
+  padding: 1.5rem;
+  width: 100%;
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: flex-end;
+}
+a.remix {
+  background-color: var(--color-bg-alt);
+  border: 2px solid var(--color-text-main);
+  border-radius: 5px;
+  padding:0.5rem;
+  font-weight:bold;
+  color: var(--color-text-main);
+  text-decoration:none;
+}
+a.remix:hover {
+  background: var(--color-text-main);
+  color:var(--color-bg-alt);
+}
