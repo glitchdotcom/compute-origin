@@ -90,7 +90,9 @@ a.remix {
   border: 2px solid var(--color-text-main);
   border-radius: 5px;
   padding:0.5rem;
-    font-weight:bold;
+  font-weight:bold;
+  color: var(--color-text-main);
+  text-decoration:none;
 }
 a.remix:hover {
   background: var(--color-text-main);
