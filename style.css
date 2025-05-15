@@ -82,7 +82,6 @@ The style rules in this sheet apply to the origin version of the site
   padding: 1.5rem;
   width: 100%;
   flex-wrap: wrap;
-  background-color: var(--color-header);
   display: flex;
   justify-content: flex-end;
 }
@@ -91,4 +90,9 @@ a.remix {
   border: 2px solid var(--color-text-main);
   border-radius: 5px;
   padding:0.5rem;
+    font-weight:bold;
+}
+a.remix:hover {
+  background: var(--color-text-main);
+  color:var(--color-bg-alt);
 }
