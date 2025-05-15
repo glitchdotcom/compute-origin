@@ -98,7 +98,7 @@ a.remix {
   border-radius: 5px;
   padding:0.5rem;
   font-weight:bold;
-  color: var(--color-text-main);
+  color: var(--color-bg);
   text-decoration:none;
 }
 a.remix:hover {
