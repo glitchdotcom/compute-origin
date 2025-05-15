@@ -103,5 +103,5 @@ a.remix {
 }
 a.remix:hover {
   background: var(--color-text-main);
-  color:var(--color-bg-alt);
+  color:var(--color-bg);
 }
