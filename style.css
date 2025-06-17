@@ -78,7 +78,7 @@ The style rules in this sheet apply to the origin version of the site
 .footer {
   display: flex;
   justify-content: space-between;
-  margin: 2rem auto 0;
+  margin: 1rem auto 0;
   padding: 1.5rem;
   width: 100%;
   flex-wrap: wrap;
